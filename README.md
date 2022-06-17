@@ -1,2 +1,2 @@
-# Cruso36535-desafio4
-Desafio 4 Curso Backend
+# Cruso36535-desafio6
+Desafio clase 6 Curso Backend
