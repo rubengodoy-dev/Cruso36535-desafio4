@@ -1,5 +1,5 @@
 const fs = require("fs")
-const { json } = require("stream/consumers")
+
 const { Producto } = require("./Productos")
 
 class Contenedor {
